@@ -7,7 +7,6 @@ This document outlines the step-by-step demonstration walkthrough for the **EcoS
 ## 🎬 Video Walkthrough Script & Scenes
 
 ### Scenario 1: Hazardous Waste Scanning (Battery)
-* **Timestamp**: `0:00 - 0:45`
 * **Scene Description**: The user opens the **EcoSense Scanner** dashboard and inputs "battery" into the search bar.
 * **Key Features Shown**:
   * **Generative AI Parsing**: Llama 3.3 model analyzes the chemical nature of the battery.
@@ -19,7 +18,6 @@ This document outlines the step-by-step demonstration walkthrough for the **EcoS
 ---
 
 ### Scenario 2: Recyclable Sorting & Logging (Plastic Bottle)
-* **Timestamp**: `0:45 - 1:30`
 * **Scene Description**: The user enters "plastic bottle" into the scanner to verify its recyclability.
 * **Key Features Shown**:
   * **AI Sorting Response**: The model classifies the item as **Plastic Waste** and flags it as **Recyclable (True)**.
@@ -33,7 +31,6 @@ This document outlines the step-by-step demonstration walkthrough for the **EcoS
 ---
 
 ### Scenario 3: Local dropoff Center Locator (Interactive Map)
-* **Timestamp**: `1:30 - 2:15`
 * **Scene Description**: After scanning a hazardous item, the user navigates to the **Map** tab to locate a safe dropoff site.
 * **Key Features Shown**:
   * **Leaflet.js Map Rendering**: A responsive map centered on coordinates loads immediately without licensing API fees.
@@ -46,7 +43,6 @@ This document outlines the step-by-step demonstration walkthrough for the **EcoS
 ---
 
 ### Scenario 4: Sustainability Analytics Dashboard (Chart.js Metrics)
-* **Timestamp**: `2:15 - 3:00`
 * **Scene Description**: The user navigates to the **Analytics Dashboard** page to review their cumulative recycling footprints.
 * **Key Features Shown**:
   * **Doughnut Chart**: Shows the distribution of recyclable vs. non-recyclable items scanned.
