@@ -16,6 +16,7 @@ This repository is structured according to the **AI Specialist Track Project Tem
 * **[6. Performance Testing](file:///C:/Users/sande/.gemini/antigravity/scratch/Sustainable-Waste-Management-AI-Assistant/6.%20Performance%20Testing/)**: Automated backend unit test results and latency tables.
 * **[7. Documentation & Demo](file:///C:/Users/sande/.gemini/antigravity/scratch/Sustainable-Waste-Management-AI-Assistant/7.%20Documentation%20&%20Demo/)**: Deploy specifications, installation manuals, and live server endpoints.
 * **[8. Project Demonstration](file:///C:/Users/sande/.gemini/antigravity/scratch/Sustainable-Waste-Management-AI-Assistant/8.%20Project%20Demonstration/)**: Future scalability plans (Edge CV, PWAs) and community environmental impact.
+* **[video demo](file:///C:/Users/sande/.gemini/antigravity/scratch/Sustainable-Waste-Management-AI-Assistant/video%20demo/)**: Step-by-step video script mapping the 4 key user scenarios in detail.
 
 ---
 
