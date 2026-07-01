@@ -1,0 +1,7 @@
+flask==3.0.3
+flask-cors==4.0.1
+python-dotenv==1.0.1
+pytest==8.2.2
+# Optional AI engine cloud client (requires compilation support for pydantic):
+# groq==0.9.0
+# firebase-admin==6.5.0
