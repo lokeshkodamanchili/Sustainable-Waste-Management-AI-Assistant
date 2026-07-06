@@ -2,8 +2,6 @@
 
 EcoSense is an AI-powered civic platform designed to help citizens identify household waste items, discover step-by-step sorting instructions, locate nearby dropoff facilities via maps, and monitor recycling progress. 
 
-This repository is structured according to the **AI Specialist Track Project Template** standards, organized into 8 distinct engineering lifecycle stages.
-
 ---
 
 ## 🌟 Key Features
@@ -15,8 +13,67 @@ This repository is structured according to the **AI Specialist Track Project Tem
 * 🛡️ **Offline Fallback Engine**: Fully resilient backend database service. If Groq API keys or Firestore credentials are not set, it switches to a local JSON database and heuristics engine without throwing exceptions.
 
 ---
-
 ## 📂 Repository Structure
+
+```
+Sustainable-Waste-Management-AI-Assistant/
+│
+├── .github/
+│   └── workflows/
+│       └── deploy.yml
+│
+├── 1. Brainstorming & Ideation/
+│   ├── Brainstorming & Idea Prioritization.pdf
+│   ├── Define Problem Statements.pdf
+│   └── Empathy Map.pdf
+│
+├── 2. Requirement Analysis/
+│   ├── Customer Journey Map.pdf
+│   ├── Data Flow Diagram.pdf
+│   ├── Solution Requirements.pdf
+│   └── Technology Stack.pdf
+│
+├── 3. Project Design Phase/
+│   └── Problem-Solution Fit.pdf
+│
+├── 4. Project Planning Phase/
+│   └── Project Planning Template.pdf
+│
+├── 5. Project Development Phase/
+│   ├── backend/
+│   └── frontend/
+│
+├── 6. Performance Testing/
+│   └── Performance Testing Report.pdf
+│
+├── 7. Documentation & Demo/
+│   ├── Project Documentation/
+│   ├── Video Demo/
+│   └── Project Demo Link.pdf
+│
+├── 8. Project Demonstration/
+│   ├── Live Website Screenshots/
+│   └── Scalability & Future Plan.pdf
+│
+├── backend/
+│   ├── services/
+│   ├── tests/
+│   ├── .env.template
+│   ├── app.py
+│   └── requirements.txt
+│
+├── frontend/
+│   ├── src/
+│   ├── index.html
+│   ├── package.json
+│   ├── package-lock.json
+│   └── vite.config.js
+│
+├── .gitignore
+└── README.md
+```
+---
+### 📌 Folder Overview
 
 The folders in this repository correspond directly to the required stages of the AI Specialist engineering track:
 
