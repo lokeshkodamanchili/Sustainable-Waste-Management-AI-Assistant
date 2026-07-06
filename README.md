@@ -27,7 +27,7 @@ The folders in this repository correspond directly to the required stages of the
 * 📁 **[5. Project Development Phase](file:///C:/Users/sande/.gemini/antigravity/scratch/Sustainable-Waste-Management-AI-Assistant/5.%20Project%20Development%20Phase/)**: Code files for backend (Flask) and frontend (React).
 * 📁 **[6. Performance Testing](file:///C:/Users/sande/.gemini/antigravity/scratch/Sustainable-Waste-Management-AI-Assistant/6.%20Performance%20Testing/)**: Unittest suite logs and API load test reports.
 * 📁 **[7. Documentation & Demo](file:///C:/Users/sande/.gemini/antigravity/scratch/Sustainable-Waste-Management-AI-Assistant/7.%20Documentation%20&%20Demo/)**: Deploy links, installation manuals, video demo guides, and official report staging folders.
-* 📁 **[8. Project Demonstration](file:///C:/Users/sande/.gemini/antigravity/scratch/Sustainable-Waste-Management-AI-Assistant/8.%20Project%20Demonstration/)**: Scalability roadmaps and environmental impact statements.
+* 📁 **[8. Project Demonstration](file:///C:/Users/sande/.gemini/antigravity/scratch/Sustainable-Waste-Management-AI-Assistant/8.%20Project%20Demonstration/)**: Scalability roadmaps, environmental impact statements, and live website UI screenshots.
 
 > [!NOTE]
 > All document stages are compiled as professional **SmartBridge / SkillWallet styled PDF worksheets** complete with headers, date/team metadata grids, and maximum mark indicators.
