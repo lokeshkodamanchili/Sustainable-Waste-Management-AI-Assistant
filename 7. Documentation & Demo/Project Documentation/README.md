@@ -1,21 +1,23 @@
-# Stage 7: Project Documentation Staging
+# 📄 Project Documentation
 
-This directory is designated for the final project documentation reports, evaluation worksheets, and submission templates.
+This folder contains the complete documentation for the **EcoSense – Sustainable Waste Management Assistant Using Generative AI** project. It provides a comprehensive overview of the project's objectives, system architecture, implementation, deployment, and evaluation. :contentReference[oaicite:0]{index=0}
 
-## 📄 Submitted Student Details
+## Contents
 
-* **Student Name**: Lokesh Kodamanchili
-* **Roll Number**: [Your Roll Number]
-* **Department**: Department of Artificial Intelligence and Machine Learning
-* **College**: Aditya College of Engineering and Technology (ACET)
-* **Project Title**: Sustainable Waste Management Assistant Using Generative AI (EcoSense)
-* **Academic Year**: 2026–2027
+- 📘 Project Report (PDF)
+- 📗 Project Report (DOCX)
 
----
+## Documentation Includes
 
-## 📂 Expected Submissions in this Folder
-Please copy or upload your completed documentation files here, including:
-1. **`Sustainable-Waste-Management-AI-Assistant-Documentation.doc`** (The Word/HTML documentation file generated for ACET AIML department).
-2. Any associated slide decks or presentation files (.pptx / .pdf).
+- Project Overview
+- Problem Statement & Objectives
+- Technical Architecture
+- Technology Stack
+- Development Workflow
+- AI Integration
+- Frontend & Backend Implementation
+- Deployment & Testing
+- Results and Conclusion
+- Future Enhancements
 
-*A compiled local version of the documentation report has been staged in the project workspace root for easy access.*
+The documentation serves as a complete reference for understanding the design, development, and deployment of the EcoSense application and is intended for academic submission, project evaluation, and future enhancements. 
